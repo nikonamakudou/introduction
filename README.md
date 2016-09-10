@@ -65,3 +65,7 @@ GUIとかいらねぇていう人はこちら
 このへんを読んでおくといいよ、GUIのある無し関係なくやっていることは同じだよ  
 <a url=http://qiita.com/novl/items/5491b4bb87170aa58a2e>  初心者の初心者による初心者のためのGit入門</a>  
 <a url=http://naichilab.blogspot.jp/2014/01/git-1sourcetreegitgit.html>【連載Git入門 第1回】SourceTreeでGitを始めよう！Gitで何ができるの？</a>  
+
+## スポンサー
+株式会社ソノリテ  
+<a url=http://www.sonorite.co.jp/index.html>http://www.sonorite.co.jp/index.html</a>  
