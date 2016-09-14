@@ -35,37 +35,43 @@ Unity使ったら簡単なゲームならすぐに作れるし、作ったゲー
 ## 環境構築
 ### Unityのインストール
 インストール先URL  
-<a url= https://store.unity.com/ja >` https://store.unity.com/ja`  </a>  
+[`https://store.unity.com/ja`](https://store.unity.com/ja)  
+
 webGLビルドオプションを有効化する  
-参考 <a url=http://b-shiki.hatenablog.com/entry/2016/01/12/034021>`【Unityメモ】WebGLでビルドしてブログに載せる`</a>  
-インストール時に「WebGL Build Support」にチェックを入れておくと幸せになれるから忘れないように
+インストール時に「WebGL Build Support」にチェックを入れておくと幸せになれるから忘れないように  
+参考  
+[`Unityメモ】WebGLでビルドしてブログに載せる`](http://b-shiki.hatenablog.com/entry/2016/01/12/034021)  
+
 
 ### Gitのインストール  
 注意  
 事前にGitHubのアカウントを作成する  
-参考 <a url=http://qiita.com/rshibasa/items/f62db870ed573ca4dced>`Githubのアカウント作成方法` </a>　
+ [`Githubのアカウント作成方法`](http://qiita.com/rshibasa/items/f62db870ed573ca4dced)  
 
 #### GUIツールを使う人  
 Git使ったコトない人やCUIコワイっていう人はこちら
 - Source Treeのインストール  
-  参考 <a url=http://nelog.jp/sourcetree>`Gitを視覚的に操作できる「SourceTree」のインストール方法`</a>  
+  [`Gitを視覚的に操作できる「SourceTree」のインストール方法`](http://nelog.jp/sourcetree)  
 
 - sshキーの設定  
-  sourcetreeを結局使ってないからよくわかんない(´・ω・｀)できたひとおしえて
+  sourcetreeを結局使ってないからよくわかんない(´・ω・｀)  できたひとおしえて
 
 #### CUIで大丈夫な人
 GUIとかいらねぇていう人はこちら
 - Gitのインストール  
-参考 <a url=http://www.atmarkit.co.jp/ait/articles/1603/31/news026.html>`初心者でもWindowsやMacでできる、Gitのインストールと基本的な使い方`</a>
+[`初心者でもWindowsやMacでできる、Gitのインストールと基本的な使い方`](http://www.atmarkit.co.jp/ait/articles/1603/31/news026.html)  
+sourcetree使う人もローカル版Gitを入れておいた方が便利かも
+
 - sshキーの設定  
-  参考 <a url=http://qiita.com/bu-son/items/2efc10a18d7a46f14555> `Windows7からGitHubへSSH接続する手順(プロキシ環境有)` </a>  
+  [`Windows7からGitHubへSSH接続する手順(プロキシ環境有)`](http://qiita.com/bu-son/items/2efc10a18d7a46f14555)  
   Win8とかも同じ手順でいけるとおもう、たぶん
 
 #### Gitってなんぞやっていう人向けの話
 このへんを読んでおくといいよ、GUIのある無し関係なくやっていることは同じだよ  
-<a url=http://qiita.com/novl/items/5491b4bb87170aa58a2e>  初心者の初心者による初心者のためのGit入門</a>  
-<a url=http://naichilab.blogspot.jp/2014/01/git-1sourcetreegitgit.html>【連載Git入門 第1回】SourceTreeでGitを始めよう！Gitで何ができるの？</a>  
+  - [初心者の初心者による初心者のためのGit入門](http://qiita.com/novl/items/5491b4bb87170aa58a2e)    
+
+- [【連載Git入門 第1回】SourceTreeでGitを始めよう！Gitで何ができるの？](http://naichilab.blogspot.jp/2014/01/git-1sourcetreegitgit.html)  
 
 ## スポンサー
 株式会社ソノリテ  
-<a url=http://www.sonorite.co.jp/index.html>http://www.sonorite.co.jp/index.html</a>  
+[http://www.sonorite.co.jp/index.html](http://www.sonorite.co.jp/index.html)  
