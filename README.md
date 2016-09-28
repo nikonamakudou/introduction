@@ -11,6 +11,7 @@ Unity使ったら簡単なゲームならすぐに作れるし、作ったゲー
 ## ニコ生配信について
 月に1回ぐらいのペースで行います。  
 初回は2016年9月29日  
+[配信枠 http://live.nicovideo.jp/gate/lv277158737](http://live.nicovideo.jp/gate/lv277158737)  
 配信は<a url=http://ch.nicovideo.jp/sonorite/live>ソノリテ公式チャンネル</a>で行っています。  
 みんな見てね!!
 
