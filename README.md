@@ -75,3 +75,7 @@ sourcetree使う人もローカル版Gitを入れておいた方が便利かも
 ## スポンサー
 株式会社ソノリテ  
 [http://www.sonorite.co.jp/index.html](http://www.sonorite.co.jp/index.html)  
+
+## お問い合わせ
+t-zouchi  
+mail: t-zouchi@sonorite.co.jp
