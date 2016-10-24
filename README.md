@@ -10,11 +10,14 @@ Unity使ったら簡単なゲームならすぐに作れるし、作ったゲー
 何が起こるかはわからん  
 ## ニコ生配信について
 月に1回ぐらいのペースで行います。  
-初回は2016年9月29日  
-[配信枠 http://live.nicovideo.jp/gate/lv277158737](http://live.nicovideo.jp/gate/lv277158737)  
+次回配信は2016年10月27日  
+[配信枠 http://live.nicovideo.jp/watch/lv279897148](http://live.nicovideo.jp/watch/lv279897148)  
 配信は<a url=http://ch.nicovideo.jp/sonorite/live>ソノリテ公式チャンネル</a>で行っています。  
 みんな見てね!!
 
+
+## 作成したゲームたち
+ここにある[https://github.com/nikonamakudou/games](https://github.com/nikonamakudou/games)  
 
 ## 開発環境
 - Unity5
